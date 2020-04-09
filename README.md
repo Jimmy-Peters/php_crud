@@ -9,4 +9,4 @@ A very basic CRUD fro learning using PHP &amp; mySQL
 ``` A web server and a browser ```
 
 # About Project
-``` This project contains Create, Read, Update and Delete ```
+``` This project contains Create, Read, Update, Delete and Check ```
